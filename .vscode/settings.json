@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
+        "countplot",
         "dtale",
-        "keras"
+        "keras",
+        "labelencoder",
+        "sklearn"
     ]
 }
